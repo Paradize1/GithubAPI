@@ -3,7 +3,8 @@ Python 3.11, requests, python-dotenv.
 
 Где взять API:
 Для того чтобы получить API, необходимо перейти в настройки вашего аккаунта github
-settings-> developer settings -> Personal access tokens (classic) -> генерируйте новый токен
+settings-> developer settings -> Personal access tokens (classic) -> генерируйте новый токен, проставить галочки можно везде.
+
 
 Для работы приложения укажите ваш github api и username в файле .env
 
